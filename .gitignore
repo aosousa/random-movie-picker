@@ -13,3 +13,6 @@
 
 # Configuration file
 config.json
+
+# Movies Excel file
+Movies.xlsx
